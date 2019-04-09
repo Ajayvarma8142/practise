@@ -19,7 +19,7 @@
 
   </dependencies>
   <build>
-    <finalName>getting-started-tomcat</finalName>
+    <finalName>sample-app</finalName>
       <plugins>
           <plugin>
               <artifactId>maven-war-plugin</artifactId>
